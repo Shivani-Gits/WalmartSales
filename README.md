@@ -2,7 +2,7 @@
 Walmart is a renowned retail corporation that operates a chain of hypermarkets. Here, Walmart has provided a data combining of 45 stores including store information and monthly sales. There are certain events and holidays, which affect sales on each day. The business is facing a challenge due to unforeseen demands and runs out of stock some times. Walmart tries to find the impact of holidays on the sales of store. An ideal ML algorithm will predict demand accurately and ingest factors like economic conditions including CPI, Unemployment Index, etc.
 Data Description
 
-##Features presents in Walmart.csv are following:
+### Features presents in Walmart.csv are following:
 
 •	Store: Store number
 
@@ -22,7 +22,7 @@ Data Description
 
 
 
-##Data Preprocessing Steps 
+### Data Preprocessing Steps 
 
 1.	Data preparation and research.
 2.	Visualizations.
